@@ -1,3 +1,11 @@
 streamlit
 langchain
 langchain-groq
+langchain-community
+langchain-core
+faiss-cpu
+sentence-transformers
+pypdf
+torch
+sqlite-utils
+python-dotenv
